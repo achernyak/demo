@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/achernyak/demo/issues"
   },
-  "homepage": "https://github.com/achernyak/demo#readme"
+  "homepage": "https://github.com/achernyak/demo#readme",
+  "dependencies": {
+    "mongojs": "^2.3.0",
+    "restify": "^4.0.4"
+  }
 }
