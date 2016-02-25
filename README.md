@@ -1,6 +1,6 @@
 #Demo app for BDPA HSCC
 
-This is Node.js application. Ensure you have (node.js)[https://nodejs.org] and (mongodb)[https://www.mongodb.org] installed. 
+This is Node.js application. Ensure you have [node.js](https://nodejs.org) and [mongodb](https://www.mongodb.org) installed. 
 
 ##Global packages
 
