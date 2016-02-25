@@ -1,0 +1,2 @@
+Globals:
+  npm install -g express-generator nodemon
